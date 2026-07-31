@@ -1,0 +1,19 @@
+:root{
+--cream:#f7f1e6; --cream-soft:#fbf7ef; 
+}
+
+nav ul{
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+display: flex;
+color: #f1ad2e;
+
+}
+nav li{
+ font-family: 'Times New Roman', Times, serif;
+ text-align: center;
+ display: flex;
+ color: #f7f1e6;
+
+}
+
